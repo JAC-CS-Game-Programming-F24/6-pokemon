@@ -16,7 +16,7 @@
  * player can fight and defeat with their own Pokémon.
  *
  * All Assets
- * @see https://reliccastle.com/essentials/
+ * @see https://reliccastlearchive.neocities.org/
  */
 
 import Game from '../lib/Game.js';
